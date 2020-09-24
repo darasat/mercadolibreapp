@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "mercadolibreapp"
+    }
+  },
+  "defaultProject": "mercadolibreapp",
+  "cli": {
+    "analytics": false
+  }
 }
